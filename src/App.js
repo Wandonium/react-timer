@@ -71,7 +71,7 @@ function App() {
             <br /><br />
             <input type="number" id="seconds" placeholder="Enter seconds" onChange={handleSecChange}/>
             <br /><br />
-            <button onClick={handleSubmit}>Submit</button>
+            <button onClick={handleSubmit}>Start Timer</button>
           </div>
         )
       }

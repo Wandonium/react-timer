@@ -8,3 +8,7 @@ The challenge: create a countdown timer. It should have the following:
 1: 29,
 1: 28
 
+### Links
+
+- Solution URL: [Solution on Github](https://github.com/Wandonium/react-timer)
+- Live Site URL: [Live Site on Github Pages](https://wandonium.github.io/react-timer/)
